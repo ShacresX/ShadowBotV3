@@ -17,9 +17,9 @@ let menu =`
 ╭══〘 ✯✯✯✯✯✯✯✯ 〙═╮
 ║═ *𝐓𝐡𝐞 𝐒𝐡𝐚𝐝𝐨𝐰 𝐁𝐫𝐨𝐤𝐞𝐫𝐬 - 𝐁𝐨𝐭*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-║➤ *✨𝗛ola, ${username}!!*
+║➤ *✨𝗛ola conchetumare, ${username}!!*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-║➤ *Creador del Bot: Bruno Sobrino* 
+║➤ *Creador del Bot: Bob Esponja* 
 ║➤ *Numero del creador:* *wa.me/5219992095479 (No Bot)*
 ║➤ *PayPal:* *https://www.paypal.me/TheShadowBrokers133*
 ║➤ *Numero del Bot oficial:* *wa.me/5219991402134*
