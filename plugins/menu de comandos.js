@@ -17,7 +17,7 @@ let menu =`
 ╭══〘 ✯✯✯✯✯✯✯✯ 〙═╮
 ║═ *𝐓𝐡𝐞 𝐒𝐡𝐚𝐝𝐨𝐰 𝐁𝐫𝐨𝐤𝐞𝐫𝐬 - 𝐁𝐨𝐭*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-║➤ *✨𝗛ola conchetumare, ${username}!!*
+║➤ *✨𝗛ola conchetumare chupapijas de mierda, ${username}!!*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *Creador del Bot: Bob Esponja* 
 ║➤ *Numero del creador:* *wa.me/5219992095479 (No Bot)*
