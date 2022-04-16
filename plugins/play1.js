@@ -14,7 +14,7 @@ conn.sendFile(m.chat, thumb, 'thumbnail.jpg', `
 *⇄ㅤ     ◁   ㅤ  ❚❚ㅤ     ▷ㅤ     ↻*
 
 *📂Tamaño del archivo:* ${filesizeF}
-*👉🏻Aguarde un momento en lo que envío su audio/video*
+*👉🏻Aguarda mierda un momento en lo que envío su audio/video*
 `.trim(), m)
 let _thumb = {}
 try { if (isVideo) _thumb = { thumbnail: await (await fetch(thumb)).buffer() } }
